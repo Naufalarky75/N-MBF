@@ -1,2 +1,3 @@
 # N-MBF
-Hehe ajg
+cd N-MBF
+python peler.py
